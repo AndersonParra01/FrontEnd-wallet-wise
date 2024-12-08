@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Structure of project flutter app wallet_wise
 
+```
 lib/
 ├── core/ # Clases base, utilidades generales
 │ ├── errors/ # Manejo de errores personalizados
@@ -39,3 +40,4 @@ lib/
 │ ├── themes.dart # Configuración de temas y estilos
 │ └── constants.dart # Constantes generales
 └── main.dart # Punto de entrada principal
+```
